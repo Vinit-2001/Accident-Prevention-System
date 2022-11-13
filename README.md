@@ -1,5 +1,5 @@
 # Accident-Prevention-System
-/* Follow these simple steps to watch out our simulation results,
+Follow these simple steps to watch out our simulation results,
 1. Open the below link to download our project files,
 https://drive.google.com/drive/folders/1ON_r96bfjQdg96BN1qFk2wvHgPFRjTo?usp=sharing
 2. Open Simulation.pdsprj using proteus software to view the schematic
@@ -12,4 +12,4 @@ the program file section.
 5. Double click on the Infrared obstacle sensor library and add 
 InfraredSensorsTEP.HEX in the program file section.
 6. Run the simulation you will observe the results accordingly.
-Thank you!! */
+Thank you!! 
