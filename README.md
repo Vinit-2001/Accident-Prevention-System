@@ -1,7 +1,6 @@
 # Accident-Prevention-System
 Follow these simple steps to watch out our simulation results,
-1. Open the below link to download our project files,
-https://drive.google.com/drive/folders/1ON_r96bfjQdg96BN1qFk2wvHgPFRjTo?usp=sharing
+1. Open Proteuos simulation folder
 2. Open Simulation.pdsprj using proteus software to view the schematic
 diagram.
 3. Double click on PIC16F877 device and add
